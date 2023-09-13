@@ -1,0 +1,220 @@
+.main-con{
+    background-color: gold;
+    height: auto;
+    width: auto;
+    margin: 0;
+    
+}
+.con1{
+    margin: 0;
+    padding-top: 5px;
+    height: 80%;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://img.freepik.com/free-vector/gradient-technology-futuristic-background_23-2149115303.jpg?size=626&ext=jpg&ga=GA1.1.45320389.1694230256&semt=ais);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 70%;
+}
+.header{
+    border-bottom:groove yellowgreen;
+    color: gold;;
+    font-size: 35px;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 15px;
+}
+.serv{
+    color: yellowgreen;
+    text-decoration: none;
+}
+.nav{
+color: yellowgreen;
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 50px;
+margin: 10px;
+border-bottom: groove 1px gold;
+background-color: white;
+}
+.p{
+    display: inline-block;
+    text-decoration: underline yellowgreen;
+}
+.welcome{
+    color: yellowgreen;
+    font-family: cursive;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0;
+}
+.welcome1{
+    color: white;
+    font-family: cursive; 
+    text-align: center;
+    font-size: 20px; 
+    margin-top: 0;
+}
+.name{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: gold;
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+}
+.serv1{
+    text-align: center;
+    color: white;
+}
+.content,.bold{
+    color: white;
+    font-size: 22px;
+    text-align: center;
+}
+.details{
+    color: red;
+
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    height: 18.5%;
+    padding: 0px;
+    margin: 0;
+}
+.sub1{
+    text-decoration: underline gold;
+    text-align: center;
+}
+strong, em{
+    color: greenyellow;
+}
+.time{
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    margin-bottom: 0;
+    justify-content: center;
+}
+.write{
+    border-bottom: groove 1px gold;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+}
+.chat{
+    border: solid;
+    border-radius: 20%;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 5px 0px 5px 700px;
+    color: gold;
+    height: 60px;
+    width: 90px;
+}
+.chats{
+    color: chartreuse;
+    font-family: sans-serif;
+    text-align: center
+}
+a{
+    color: yellowgreen;
+    text-decoration: none;
+}
+.fa-long-arrow-up, .fa-whatsapp, .fa-envelope{
+    color: red;
+    height: auto;
+    width: auto;
+}
+.home{
+border-radius: 10px;
+background-color: gold;
+height: 50px;
+width: 50px;
+margin: 30px 0 0 450px;
+}
+.mail{
+    border-radius: 10px;
+    background-color: gold;
+    height: 50px;
+    width: 70px;
+    margin: 30px 0 0 450px;
+}
+.services{
+    color: gold;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    margin: 12px;
+    font-size: large;
+}
+.down{
+    font-style: oblique;
+    width: 60px;
+    height: 30px;
+    padding: 0;
+    color: red;
+    text-decoration: underline;
+}
+.offer{
+    font-family: monospace;
+    color: red;
+    text-decoration: underline;
+    font-size: 30px;
+}
+SIGN-UP STARTS FROM HERE
+
+.form{
+    margin-left: 80px;
+    text-align: center;
+    align-items: center;
+    justify-content: center; 
+}
+.sign{
+    background-color:#1cd8df;
+    margin-bottom: 60px;
+    margin-top: 10px;
+}
+.right{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #1cd8df;
+    margin: -10px -10px -10px 10px;
+    padding: 0px;
+    flex-basis: auto;
+    color: white;
+    box-shadow: 2px 2px 5px black;
+    width: 366px;
+}
+.write{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    padding-bottom: 0%;
+    margin: 0%;
+}
+input{
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 250px;
+    box-shadow: 4px 2px 5px black;
+}
+.main{
+    text-align: center;
+}
+.underline{
+    color: #1cd8df;
+    text-decoration: underline;
+}
